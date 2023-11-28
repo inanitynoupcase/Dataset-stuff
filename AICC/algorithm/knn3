@@ -1,0 +1,47 @@
+import pandas as pd
+import numpy as np
+from sklearn.metrics.pairwise import cosine_similarity
+
+# Step 1: Read the CSV file containing movie data
+csv_file = 'comedy_cmt_vector_update.csv'
+df = pd.read_csv(csv_file)
+
+# Step 2: Get user input for idmovie
+input_idmovie = 91  # Replace with the desired idmovie
+
+# Step 3: Filter the DataFrame to get all rows with the same idmovie
+filtered_df = df[df['idmovie'] == input_idmovie]
+
+# Step 4: Extract feature vectors (from column 4 to the end)
+feature_vectors = filtered_df.iloc[:, 4:].values
+
+# Step 5: Calculate the mean feature vector for the input idmovie
+mean_feature_vector = feature_vectors.mean(axis=0)
+
+# Step 6: Find all unique idmovie values that are not the same as the input
+unique_idmovies = df['idmovie'].unique()
+unique_idmovies = unique_idmovies[unique_idmovies != input_idmovie]
+
+# Step 7: Calculate the mean feature vector for each unique idmovie and store them in a dictionary
+mean_feature_vectors = {}
+for idmovie in unique_idmovies:
+    movie_df = df[df['idmovie'] == idmovie]
+    movie_feature_vectors = movie_df.iloc[:, 4:].values
+    mean_movie_feature_vector = movie_feature_vectors.mean(axis=0)
+    mean_feature_vectors[idmovie] = mean_movie_feature_vector
+
+# Step 8: Calculate cosine similarity between the input mean_feature_vector and all other mean_feature_vectors
+cosine_similarities = {idmovie: cosine_similarity([mean_feature_vector], [mean_feature_vectors[idmovie]])[0][0] for idmovie in unique_idmovies}
+
+# Step 9: Sort the movies based on cosine similarity (closest first)
+sorted_movies = sorted(unique_idmovies, key=lambda idmovie: cosine_similarities[idmovie])
+
+# Step 10: Read movie names from film.csv and print them
+film_csv_file = 'film.csv'  # Replace with the correct filename
+film_df = pd.read_csv(film_csv_file)
+
+print("Sorted Movies and Their Film Names:")
+for idmovie in sorted_movies:
+    # Find the corresponding movie name in the film.csv file
+    movie_name = film_df.loc[film_df['movieid'] == idmovie]['filename'].values[0]
+    print(f"idmovie: {idmovie}, Cosine Similarity: {cosine_similarities[idmovie]}, Film Name: {movie_name}")

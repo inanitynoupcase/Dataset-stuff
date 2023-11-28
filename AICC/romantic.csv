@@ -1,0 +1,305 @@
+keyword,value
+khóc,1
+hy vọng,1
+tình yêu,1
+câu chuyện tình yêu,1
+tình yêu đích thực,1
+bữa tiệc tình yêu,1
+cảnh tình yêu,1
+tình ca,1
+kỷ niệm,1
+buồn,1
+xúc động,1
+chạm vào trái tim,1
+tuyệt phẩm,1
+ấn tượng mạnh mẽ,1
+bộ phim tình cảm,1
+tình cảm,1
+đáng yêu,1
+rơi nước mắt,1
+bật khóc,1
+mối tình,1
+mối tình đẹp,1
+tình huống lãng mạn,1
+yêu quý,1
+lãng mạn,1
+suy tư,1
+suy ngẫm,1
+cảm động,1
+cảm xúc,1
+đáng nhớ,1
+ý nghĩa,1
+thú vị,1
+hấp dẫn,1
+đặc sắc,1
+hoàn hảo,1
+sâu sắc,1
+kỳ diệu,1
+tinh tế,1
+chân thành,1
+cuốn hút,1
+lôi cuốn,1
+ấm áp,1
+ngọt ngào,1
+đắm say,1
+sâu lắng,1
+đặc biệt,1
+tuyệt vời,1
+mối tình,1
+vô cùng buồn,1.0
+vô cùng lãng mạn,1.0
+vô cùng suy tư,1.0
+vô cùng suy ngẫm,1.0
+vô cùng xúc động,1.0
+vô cùng cảm xúc,1.0
+vô cùng cảm động,1.0
+vô cùng đáng nhớ,1.0
+vô cùng ý nghĩa,1.0
+vô cùng thú vị,1.0
+vô cùng hấp dẫn,1.0
+vô cùng đặc sắc,1.0
+vô cùng hoàn hảo,1.0
+vô cùng sâu sắc,1.0
+vô cùng kỳ diệu,1.0
+vô cùng tinh tế,1.0
+vô cùng chân thành,1.0
+vô cùng cuốn hút,1.0
+vô cùng lôi cuốn,1.0
+vô cùng ấm áp,1.0
+vô cùng ngọt ngào,1.0
+vô cùng đắm say,1.0
+vô cùng sâu lắng,1.0
+vô cùng đặc biệt,1.0
+vô cùng tuyệt vời,1.0
+vô cùng mối tình,1.0
+cực kì lãng mạn,0.95
+cực kì buồn,0.95
+cực kì suy tư,0.95
+cực kì suy ngẫm,0.95
+cực kì xúc động,0.95
+cực kì cảm xúc,0.95
+cực kì cảm động,0.95
+cực kì đáng nhớ,0.95
+cực kì ý nghĩa,0.95
+cực kì thú vị,0.95
+cực kì hấp dẫn,0.95
+cực kì đặc sắc,0.95
+cực kì hoàn hảo,0.95
+cực kì sâu sắc,0.95
+cực kì kỳ diệu,0.95
+cực kì tinh tế,0.95
+cực kì chân thành,0.95
+cực kì cuốn hút,0.95
+cực kì lôi cuốn,0.95
+cực kì ấm áp,0.95
+cực kì ngọt ngào,0.95
+cực kì đắm say,0.95
+cực kì sâu lắng,0.95
+cực kì đặc biệt,0.95
+cực kì tuyệt vời,0.95
+cực kì mối tình,0.95
+quá lãng mạn,0.9
+quá suy tư,0.9
+quá suy ngẫm,0.9
+quá xúc động,0.9
+quá cảm xúc,0.9
+quá cảm động,0.9
+quá đáng nhớ,0.9
+quá ý nghĩa,0.9
+quá thú vị,0.9
+quá hấp dẫn,0.9
+quá đặc sắc,0.9
+quá hoàn hảo,0.9
+quá sâu sắc,0.9
+quá kỳ diệu,0.9
+quá tinh tế,0.9
+quá chân thành,0.9
+quá cuốn hút,0.9
+quá lôi cuốn,0.9
+quá ấm áp,0.9
+quá ngọt ngào,0.9
+quá đắm say,0.9
+quá sâu lắng,0.9
+quá đặc biệt,0.9
+quá tuyệt vời,0.9
+quá mối tình,0.9
+rất lãng mạn,0.85
+rất suy tư,0.85
+rất suy ngẫm,0.85
+rất xúc động,0.85
+rất cảm xúc,0.85
+rất cảm động,0.85
+rất đáng nhớ,0.85
+rất ý nghĩa,0.85
+rất thú vị,0.85
+rất hấp dẫn,0.85
+rất đặc sắc,0.85
+rất hoàn hảo,0.85
+rất sâu sắc,0.85
+rất kỳ diệu,0.85
+rất tinh tế,0.85
+rất chân thành,0.85
+rất cuốn hút,0.85
+rất lôi cuốn,0.85
+rất ấm áp,0.85
+rất ngọt ngào,0.85
+rất buồn,0.85
+rất đắm say,0.85
+rất sâu lắng,0.85
+rất đặc biệt,0.85
+rất tuyệt vời,0.85
+rất mối tình,0.85
+khá lãng mạn,0.8
+khá suy tư,0.8
+khá suy ngẫm,0.8
+khá xúc động,0.8
+khá cảm xúc,0.8
+khá cảm động,0.8
+khá đáng nhớ,0.8
+khá ý nghĩa,0.8
+khá thú vị,0.8
+khá hấp dẫn,0.8
+khá đặc sắc,0.8
+khá buồn,0.8
+khá hoàn hảo,0.8
+khá sâu sắc,0.8
+khá kỳ diệu,0.8
+khá tinh tế,0.8
+khá chân thành,0.8
+khá cuốn hút,0.8
+khá lôi cuốn,0.8
+khá ấm áp,0.8
+khá ngọt ngào,0.8
+khá đắm say,0.8
+khá sâu lắng,0.8
+khá đặc biệt,0.8
+khá tuyệt vời,0.8
+khá mối tình,0.8
+đầy lãng mạn,0.7
+đầy suy tư,0.7
+đầy suy ngẫm,0.7
+đầy xúc động,0.7
+đầy cảm xúc,0.7
+đầy cảm động,0.7
+đầy đáng nhớ,0.7
+đầy ý nghĩa,0.7
+đầy thú vị,0.7
+đầy hấp dẫn,0.7
+đầy đặc sắc,0.7
+đầy hoàn hảo,0.7
+đầy sâu sắc,0.7
+đầy kỳ diệu,0.7
+đầy tinh tế,0.7
+đầy chân thành,0.7
+đầy cuốn hút,0.7
+đầy lôi cuốn,0.7
+đầy ấm áp,0.7
+đầy ngọt ngào,0.7
+đầy đắm say,0.7
+đầy sâu lắng,0.7
+đầy đặc biệt,0.7
+đầy tuyệt vời,0.7
+đầy mối tình,0.7
+đủ lãng mạn,0.6
+đủ suy tư,0.6
+đủ suy ngẫm,0.6
+đủ xúc động,0.6
+đủ cảm xúc,0.6
+đủ cảm động,0.6
+đủ đáng nhớ,0.6
+đủ ý nghĩa,0.6
+đủ thú vị,0.6
+đủ hấp dẫn,0.6
+đủ đặc sắc,0.6
+đủ hoàn hảo,0.6
+đủ sâu sắc,0.6
+đủ kỳ diệu,0.6
+đủ tinh tế,0.6
+đủ chân thành,0.6
+đủ cuốn hút,0.6
+đủ lôi cuốn,0.6
+đủ ấm áp,0.6
+đủ ngọt ngào,0.6
+đủ đắm say,0.6
+đủ sâu lắng,0.6
+đủ đặc biệt,0.6
+đủ tuyệt vời,0.6
+đủ mối tình,0.6
+một chút lãng mạn,0.2
+một chút suy tư,0.2
+một chút suy ngẫm,0.2
+một chút xúc động,0.2
+một chút cảm xúc,0.2
+một chút cảm động,0.2
+một chút đáng nhớ,0.2
+một chút ý nghĩa,0.2
+một chút thú vị,0.2
+một chút hấp dẫn,0.2
+một chút đặc sắc,0.2
+một chút hoàn hảo,0.2
+một chút sâu sắc,0.2
+một chút kỳ diệu,0.2
+một chút tinh tế,0.2
+một chút chân thành,0.2
+một chút cuốn hút,0.2
+một chút lôi cuốn,0.2
+một chút ấm áp,0.2
+một chút ngọt ngào,0.2
+một chút đắm say,0.2
+một chút sâu lắng,0.2
+một chút đặc biệt,0.2
+một chút buồn,0.2
+một chút tuyệt vời,0.2
+một chút mối tình,0.2
+không lãng mạn,-0.5
+không suy tư,-0.5
+không suy ngẫm,-0.5
+không xúc động,-0.5
+không cảm xúc,-0.5
+không cảm động,-0.5
+không đáng nhớ,-0.5
+không ý nghĩa,-0.5
+không thú vị,-0.5
+không hấp dẫn,-0.5
+không đặc sắc,-0.5
+không hoàn hảo,-0.5
+không sâu sắc,-0.5
+không kỳ diệu,-0.5
+không tinh tế,-0.5
+không chân thành,-0.5
+không cuốn hút,-0.5
+không lôi cuốn,-0.5
+không ấm áp,-0.5
+không ngọt ngào,-0.5
+không đắm say,-0.5
+không sâu lắng,-0.5
+không đặc biệt,-0.5
+không tuyệt vời,-0.5
+không mối tình,-0.5
+không buồn, -0.5
+chẳng lãng mạn,-1.0
+chẳng suy tư,-1.0
+chẳng suy ngẫm,-1.0
+chẳng xúc động,-1.0
+chẳng cảm xúc,-1.0
+chẳng cảm động,-1.0
+chẳng đáng nhớ,-1.0
+chẳng ý nghĩa,-1.0
+chẳng thú vị,-1.0
+chẳng hấp dẫn,-1.0
+chẳng đặc sắc,-1.0
+chẳng hoàn hảo,-1.0
+chẳng buồn, -1.0
+chẳng sâu sắc,-1.0
+chẳng kỳ diệu,-1.0
+chẳng tinh tế,-1.0
+chẳng chân thành,-1.0
+chẳng cuốn hút,-1.0
+chẳng lôi cuốn,-1.0
+chẳng ấm áp,-1.0
+chẳng ngọt ngào,-1.0
+chẳng đắm say,-1.0
+chẳng sâu lắng,-1.0
+chẳng đặc biệt,-1.0
+chẳng tuyệt vời,-1.0
+chẳng mối tình,-1.0

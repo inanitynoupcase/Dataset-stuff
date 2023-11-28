@@ -1,0 +1,304 @@
+﻿Keywords,Value
+rượt đuổi,0.5
+không rượt đuổi,-0.5
+hiệu ứng đặc biệt,0.5
+bắn súng,0.5
+không bắn súng,-0.5
+đấu võ,0.5
+không đấu võ,-0.5
+chẳng đấu võ,-1
+nhiều hành động,0.8
+hành động,0.5
+không hành động,-0.5
+chẳng hành động,-1
+vô cùng gay cấn,1
+cực kì gay cấn,0.95
+quá gay cấn,0.9
+rất gay cấn,0.85
+khá gay cấn,0.8
+đủ gay cấn,0.6
+gay cấn,0.5
+không gay cấn,-0.5
+chẳng gay cấn,-1
+địa điểm ngoạn mục,0.5
+sức mạnh,0.5
+vô cùng mạnh,1
+cực kì mạnh,0.95
+quá mạnh,0.9
+rất manh,0.85
+khá mạnh,0.8
+đủ mạnh,0.6
+mạnh,0.5
+không mạnh,-0.5
+chẳng mạnh,-1
+vô cùng chuyên nghiệp,1
+cực kì chuyên nghiệp,0.95
+quá chuyên nghiệp,0.9
+rất chuyên nghiêp,0.85
+khá chuyên nghiệp,0.8
+chuyên nghiệp,0.5
+không chuyên nghiệp,-0.5
+võ thuật,0.5
+vô cùng tốc độ,1
+cực kì tốc độ,0.95
+quá tốc độ,0.9
+rất tốc độ,0.85
+khá tốc độ,0.8
+đầy tốc độ,0.7
+tốc độ,0.5
+không tốc độ,-0.5
+chẳng tốc độ,-1
+vô cùng nghẹt thở,1
+cực kì nghẹt thở,0.95
+quá nghẹt thở,0.9
+rất nghẹt thở,0.85
+khá nghẹt thở,0.8
+nghẹt thở,0.5
+không nghẹt thở,-0.5
+chẳng nghẹt thở,-1
+trận chiến,0.5
+vũ khí,0.5
+đua xe,0.5
+chẳng đua xe,-0.5
+choảng nhau,0.5
+đâm,0.5
+chém,0.5
+cắn,0.5
+vô cùng thách thức,1
+cực kì thách thức,0.95
+quá thách thức,0.9
+rất thách thức,0.85
+khá thách thức,0.8
+đầy thách thức,0.7
+đủ thách thức,0.6
+thách thức,0.5
+không thách thức,-0.5
+chẳng thách thức,-1
+vô cùng mạo hiểm,1
+cực kì mạo hiểm,0.95
+quá mạo hiểm,0.9
+rất mạo hiểm,0.85
+khá mạo hiểm,0.8
+đầy mạo hiểm,0.7
+mạo hiểm,0.5
+không mạo hiểm,-0.5
+chẳng mạo hiểm,-1
+đánh đấm,0.5
+người hùng,0.5
+truy đuổi,0.5
+chiến đấu,0.5
+phiêu lưu,0.5
+chiến tranh,0.5
+vô cùng nguy hiểm,1
+cực kì nguy hiểm,0.95
+quá nguy hiểm,0.9
+rất nguy hiểm,0.85
+khá nguy hiểm,0.5
+đầy nguy hiểm,0.7
+nguy hiểm,0.5
+không nguy hiểm,-0.5
+chẳng nguy hiểm,-1
+vô cùng hồi hộp,1
+cực kì hồi hộp,0.95
+quá hồi hộp,0.9
+rất hồi hộp,0.85
+khá hồi hộp,0.8
+hồi hộp,0.5
+không hồi hộp,-0.5
+chẳng hồi hộp,-1
+vô cùng kịch tính,1
+cực kì kịch tính,0.95
+quá kịch tính,0.9
+rất kịch tính,0.85
+khá kịch tính,0.8
+đầy kịch tính,0.7
+kịch tính,0.5
+không kịch tính,-0.5
+chẳng kịch tính,-1
+vô cùng kinh ngạc,1
+cực kì kinh ngạc,0.95
+quá kinh ngạc,0.9
+rất kinh ngạc,0.85
+khá kinh ngạc,0.8
+kinh ngạc,0.5
+không kinh ngạc,-0.5
+chẳng kinh ngạc,-1
+vô cùng dũng cảm,1
+cực kì dũng cảm,0.95
+quá dũng cảm,0.9
+rất dũng cảm,0.85
+khá dũng cảm,0.8
+đầy dũng cảm,0.7
+dũng cảm ,0.5
+không dũng cảm,-0.5
+chẳng dũng cảm,-1
+máu lửa,0.5
+vô cùng uy lực ,1
+cực kì uy lực,0.95
+quá uy lực ,0.9
+rất uy lực ,0.85
+khá uy lực,0.8
+đầy uy lực,0.7
+uy lực,0.5
+không uy lực,-0.5
+chẳng uy lực,-1
+rung chuyển,0.5
+vô cùng căng thẳng,1
+cực kì căng thẳng,0.95
+quá căng thẳng,0.9
+rất căng thẳng,0.85
+khá căng thẳng,0.8
+đầy căng thẳng,0.7
+căng thẳng,0.5
+không căng thẳng,-0.5
+chẳng căng thẳng,-1
+vô cùng bí ẩn,1
+cực kì bí ẩn,0.95
+quá bí ẩn,0.9
+rất bí ẩn ,0.85
+khá bí ẩn,0.8
+đầy bí ẩn,0.7
+bí ẩn,0.5
+không bí ẩn,-0.5
+chẳng bí ẩn,-1
+khám phá,0.5
+vô cùng áp lực,1
+cực kì áp lực ,0.95
+quá áp lực,0.9
+rất áp lực,0.85
+khá áp lực,0.8
+đầy áp lực,0.7
+áp lực,0.5
+không áp lực,-0.5
+chẳng áp lực,-1
+vô cùng khó khăn,1
+cực kì khó khăn,0.95
+quá khó khăn ,0.9
+rất khó khăn,0.85
+khá khó khăn,0.8
+đầy khó khăn,0.7
+khó khăn,0.5
+không khó khăn,-0.5
+chẳng khó khăn,-1
+vô cùng ấn tượng,1
+cực kì ấn tượng ,0.95
+quá ấn tượng,0.9
+rất ấn tượng,0.85
+khá ấn tượng,0.8
+đầy ấn tượng,0.7
+ấn tượng,0.5
+không ấn tượng,-0.5
+chẳng ấn tượng,-1
+vô cùng nghị lực,1
+cực kì nghị lực,0.95
+quá nghị lực,0.9
+rất nghị lực,0.85
+khá nghị lực,0.8
+đầy nghị lực,0.7
+nghị lực,0.5
+không nghị lực,-0.5
+chẳng nghị lực,-1
+vô cùng hùng mạnh,1
+cực kì hùng mạnh,0.95
+quá hùng mạnh,0.9
+rất hùng mạnh,0.85
+khá hùng mạnh,0.8
+hùng mạnh,0.5
+không hùng mạnh,-0.5
+chẳng hùng mạnh,-1
+nhân vật phản diện,0.5
+vô cùng đáng gờm,1
+cực kì đáng gờm,0.95
+quá đáng gờm,0.9
+rất đáng gờm,0.85
+khá đáng gờm,0.8
+đáng gờm,0.5
+không đáng gờm,-0.5
+chẳng đáng gờm,-1
+trốn chạy,0.5
+chiến binh,0.5
+vô cùng chiến lược,1
+cực kì chiến lược,0.95
+quá chiến lược,0.9
+rất chiến lược,0.85
+khá chiến lược,0.8
+đầy chiến lược,0.7
+chiến lược,0.5
+không chiến lược,-0.5
+chẳng chiến lược,-1
+chinh phục,0.5
+tay đua,0.5
+vô cùng kỹ thuật,1
+cực kì kỹ thuật,0.95
+quá kỹ thuật,0.9
+rất kỹ thuật,0.85
+khá kỹ thuật,0.8
+đầy kỹ thuật,0.7
+kỹ thuật,0.5
+không kỹ thuật,-0.5
+chẳng kỹ thuật,-1
+nhà thám hiểm,0.5
+cháy ,0.5
+vô cùng mạnh mẽ,1
+cực kì mạnh mẽ,0.95
+quá mạnh mẽ,0.9
+rất mạnh mẽ,0.85
+khá mạnh mẽ,0.8
+đầy mạnh mẽ,0.7
+đủ mạnh mẽ,0.6
+mạnh mẽ,0.5
+không mạnh mẽ,-0.5
+chẳng mạnh mẽ,-1
+vô cùng nhanh nhạy,1
+cực kì nhanh nhạy,0.95
+quá nhanh nhạy,0.9
+rất nhanh nhạy,0.85
+khá nhanh nhạy,0.8
+đầy nhanh nhạy,0.7
+nhanh nhạy,0.5
+không nhanh nhạy,-0.5
+chẳng nhanh nhạy,-1
+biệt đội,0.5
+khủng bố,0.5
+vô cùng tinh nhuệ,1
+cực kì tinh nhuệ,0.95
+quá tinh nhuệ,0.9
+rất tinh nhuệ,0.85
+khá tinh nhuệ,0.8
+đầy tinh nhuệ,0.7
+tinh nhuệ,0.5
+không tinh nhuệ,-0.5
+chẳng tinh nhuệ,-1
+cảnh nổ bom,0.5
+đuổi bắt,0.5
+vụ nổ,0.5
+gián điệp,0.5
+hiệp sĩ,0.5
+xung đột,0.5
+cảnh sát,0.5
+sát thủ ,0.5
+siêu anh hùng,0.5
+súng đạn,0.5
+bom,0.5
+nhiệm vụ bí mật,0.5
+đặc nhiệm,0.5
+xâm nhập,0.5
+vượt ngục,0.5
+thế giới ngầm,0.5
+siêu năng lực,0.5
+đối đầu,0.5
+hành trình,0.5
+giết chóc,0.5
+trả thù,0.5
+đội quân,0.5
+cháy nổ,0.5
+ám sát,0.5
+tội ác,0.5
+kho báu,0.5
+cướp biển,0.5
+tội phạm,0.5
+điệp viên,0.5
+thế giới tương lai,0.5
+sự sống còn,0.5
+quân đội,0.5
+năng lực siêu nhiên,0.5
